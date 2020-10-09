@@ -1,13 +1,22 @@
-# SDSC Webinar - Data Visualization With Python Using Jupyter Notebooks
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3478666.svg)](https://doi.org/10.5281/zenodo.3478666)
 
-<a href="http://education.sdsc.edu/training/data_vis_with_python/data_vis_with_python.zip">Download data for this tutorial.</a>
-<p>Python is rapidly becoming the programming language of choice for scientific research, and Jupyter Notebooks provide a user-friendly way of writing and running python code and of teaching and learning how to program. Visual analytics is playing an increasingly important role in data science by allowing researchers to explore massive amounts of data for patterns which may not be obvious using other methods.</p>
+[![Documentation Status](https://readthedocs.org/projects/comet-notebooks-101/badge/?version=latest)](https://comet-notebooks-101.readthedocs.io/)
 
-In this webinar, we will briefly review data visualization principles and practices and jump into a series of data visualization examples using Python libraries including pandas, matplotlib, bokeh, seaborn, and networkx. 
+# notebooks-101
+Everything you need to know about running Jupyter Notebooks on HPC Systems at SDSC.
+Read the tutorials here: https://comet-notebooks-101.readthedocs.io/
 
-About the Instructor:
-Jeff Sale, M.A., XSEDE ECSS Visualization Consultant and SDSC Learning Design Technologist
+## Interactive Video Link:
+This material was presented as part of a webinar presented in April, 2020. The link to the traiing material can be found here:
+* https://github.com/sdsc-hpc-training-org/comet-101/blob/master/running_jobs_on_comet.md
+And the interactive video can be found here:
+* https://education.sdsc.edu/training/interactive/202005_running_jupyter_notebooks_on_comet/index.php
 
-Jeff Sale is an XSEDE ECSS visualization consultant who enjoys exploring novel visual analytics approaches to spatiotemporal data.  He also works as a Learning Design Technologist at the San Diego Supercomputer Center promoting the use of cyberinfrastructure within the K-12 and higher education HPC communities through workshops, training, and curriculum development in collaboration with a talented group of experts and educators.
+## GitHub Repo to training material:
+https://github.com/sdsc-hpc-training/basic_skills/tree/master/how_to_run_notebooks_on_comet
 
 
+## License
+
+All the teaching material in this repository is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
