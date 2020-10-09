@@ -5,9 +5,9 @@ sys.path.append('methods')
 
 # -- Project information -----------------------------------------------------
 
-project = 'Notebooks 101'
+project = 'Data Visualization With Python'
 copyright = '2020, SDSC HPC Training'
-author = 'James McDougall, Mary Thomas'
+author = 'Jeff Sale'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -37,7 +37,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 #html_theme = 'nature'
-html_theme = 'nature'
+html_theme = 'classic'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

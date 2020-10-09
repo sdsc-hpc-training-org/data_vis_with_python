@@ -1,12 +1,10 @@
-# Contact Us
+# Lesson 1
 
-If you have questions or trouble with the material in this tutorial, see the <a href="https://comet.sdsc.edu">Comet User Guide</a>, or please contact the following consulting teams:
+##Interactive Visualization of Weather Time Series Data With Bokeh
 
-<blockquote>
-<table border="0">
-<tr><td><b>XSEDE Help:</b></td>    <td>&nbsp;&nbsp;</td> <td>help@xsede.org<td></tr>
-<tr><td><b>Non-XSEDE Help:</b></td><td>&nbsp;&nbsp;</td> <td>consult@sdsc.edu<td></tr>
-</table>
-</blockquote>
+In this lesson, we will do some simple plotting just using matplotlib to get an idea of what plotting is typically like in Python. Then we will add some pan/zoom interactivity to the plots using Bokeh. 
 
+##About the data
+
+This data was collected from the High-Performance Wireless Research and Education Network (HPWREN, <a href="https://hpwren.ucsd.edu">https://hpwren.ucsd.edu</a>). HPWREN has worked in coordination with San Diego Gas & Electric and regional wildfire first response services to establish the finest real-time weather data collection and video minitoring system on the planet.
 
