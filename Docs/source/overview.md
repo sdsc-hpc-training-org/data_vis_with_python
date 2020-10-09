@@ -22,7 +22,7 @@ pandas, datetime, dateutil, ipywidgets, matplotlib, seaborn, networkx, bokeh
 <a href="https://docs.bokeh.org/en/latest/index.html" target="_new">https://docs.bokeh.org/en/latest/index.html</a>
 
 <h1>HoloViz/HoloViews</h1>
-![HoloView Apps](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/holoviews.png?raw=true)
+![HoloViews Apps](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/holoviews.png?raw=true)
 
 ![HoloViz Pipeline](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/holoviz.png?raw=true)
 
