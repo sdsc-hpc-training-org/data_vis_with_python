@@ -54,6 +54,10 @@ There are many different applications to be found in the python visualization la
 <h1>Bokeh</h1>
 “Bokeh is an interactive visualization library for modern web browsers. It serves as a web-based front end to matplotlib using JavaScript behind the scenes to run in a browser”. Learn more at <a href="https://docs.bokeh.org/en/latest/index.html" target="_new">https://docs.bokeh.org/en/latest/index.html</a>.
 
+<h1>Matplotlib</h1>
+
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib is the 'default' visualization application for Python. Learn more at <a href="https://matplotlib.org/">https://matplotlib.org/</a>.
+
 <h1>Seaborn</h1>
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Learn more at <a href="https://seaborn.pydata.org/">https://seaborn.pydata.org/</a>.
