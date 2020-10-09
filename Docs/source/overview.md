@@ -1,5 +1,9 @@
 # Tutorial Overview
 
+Slides for this tutorial can be downloaded here:
+
+<a href="https://education.sdsc.edu/training/data_vis_with_python_202009.pdf">https://education.sdsc.edu/training/data_vis_with_python_202009.pdf</a>
+
 <h1>Prerequisites</h1>
 
 For these lessons you will need Python and Jupyter Notebooks installed. The best way to do this is with <b><a href="https://docs.anaconda.com/anaconda/install/">anaconda</a></b>. 
@@ -29,6 +33,17 @@ Place the 'data' folder in the same folder with the .ipynb files.
 “Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.”
 
 <a href="https://jupyter.org/" target="_new">https://jupyter.org/</a>
+
+Ways to access Jupyter Notebooks on XSEDE systems:
+
+TACC Visualization Portal
+<a href="https://vis.tacc.utexas.edu/">https://vis.tacc.utexas.edu/</a>
+
+SDSC Comet
+<a href="https://comet-notebooks-101.readthedocs.io/en/master/">https://comet-notebooks-101.readthedocs.io/en/master/</a>
+
+PSC Bridges
+<a href="https://www.psc.edu/user-resources/software/jupyter">https://www.psc.edu/user-resources/software/jupyter</a>
 
 <h1>The Python Visualization Landscape</h1>
 
