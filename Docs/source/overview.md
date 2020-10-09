@@ -1,10 +1,26 @@
 # Tutorial Overview
 
+<h1>Prerequisites</h1>
+
 For these lessons you will need Python and Jupyter Notebooks installed. The best way to do this is with <b><a href="https://docs.anaconda.com/anaconda/install/">anaconda</a></b>. 
+
+<h2>Required Libraries</h2>
 
 You will also need the following libraries:
 
 pandas, datetime, dateutil, ipywidgets, matplotlib, seaborn, networkx, bokeh
+
+<h2>The Github Repo For These Lessons</h2>
+
+The Jupyter Notebooks for these lessons can be downloaded here:
+
+<a href="https://github.com/sdsc-hpc-training-org/data_vis_with_python">https://github.com/sdsc-hpc-training-org/data_vis_with_python</a>
+
+<h2>Download Data For These Lessons</h2>
+
+You can download the data for these lessons here:
+
+<a href="http://education.sdsc.edu/201912_data_viz_python_4webinar/data_vis_with_python_lesson_data.zip" target="_new">http://education.sdsc.edu/201912_data_viz_python_4webinar/data_vis_with_python_lesson_data.zip</a>
 
 <h1>The Jupyter Project</h1>
 
