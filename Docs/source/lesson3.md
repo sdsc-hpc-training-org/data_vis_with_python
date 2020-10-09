@@ -1,6 +1,6 @@
-#Lesson 3
+# Lesson 3
 
-##Digging around the Baseball Databank: Statistics Visualization With Seaborn
+<h2>Digging around the Baseball Databank: Statistics Visualization With Seaborn</h2>
 
 In this lesson we will explore a publicly available dataset, The Baseball Databank.
 

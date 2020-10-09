@@ -1,13 +1,18 @@
 # Acknowledgements
-##XSEDE and SDSC
+
+<h2>XSEDE and SDSC</h2>
+
 Chris Myers*, Senior Research Associate, Center for Advanced Computing, Adjunct Professor, Dept. of Physics, Cornell University
+
 Susan Mehringer*, Associate Director, Consulting, Cornell University Center for Advanced Computing, & XSEDE L3 for Training, WBS 2.1.2
+
 Kate Starbird, Associate Professor, Human Centered Design & Eng., U. of Washington 
+
 Jen Zeimke, Associate Professor, Political Science, John Carroll Univ.
+
 Mary Thomas and Bob Sinkovits, SDSC User Training
 
-
-##About the Team
+<h2>About the Team</h2>
 
 [Mary Thomas](https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) is a principal leader of the SDSC HPC Training team.
 

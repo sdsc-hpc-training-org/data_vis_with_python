@@ -1,4 +1,4 @@
-#Lesson 4
+# Lesson 4
 
 ##Using Pandas, Bokeh, and Networkx to Visualize Twitter Social Network Graph
 
