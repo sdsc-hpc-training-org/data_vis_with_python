@@ -9,28 +9,32 @@ Data Visualization With Python Using Jupyter Notebooks
 
 # With examples for Bokeh, Seaborn, and Networkx
 
+Tutorial Overview
+--------
+<b>The <a href="https://data-vis-with-python.readthedocs.io/en/main/overview.html">Tutorial Overview</a></b> provides some background to this tutorial and links to related resources. 
+
 Lesson 1
 --------
-[Lesson 1](https://data-vis-with-python.readthedocs.io/en/main/lesson1.html) provides an introduction to plotting with matplotlib and Bokeh.
+<b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson1.html">Lesson 1</a></b> provides an introduction to plotting with matplotlib and Bokeh using a weather data set containing data for temperature, humidity, wind speed and wind direction. 
 
 Lesson 2
 --------
-[Lesson 2](https://data-vis-with-python.readthedocs.io/en/main/lesson2.html) provides an introduction to plotting with matplotlib and Bokeh.
+<b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson2.html">Lesson 2</a></b> provides an introduction to plotting with matplotlib and Bokeh.
 
 Lesson 3
 --------
-[Lesson 3](https://data-vis-with-python.readthedocs.io/en/main/lesson3.html) provides an introduction to plotting with matplotlib and Bokeh.
+<b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson3.html">Lesson 3</a></b> provides an introduction to plotting with matplotlib and Bokeh.
 
 Lesson 4
 --------
-[Lesson 4](https://data-vis-with-python.readthedocs.io/en/main/lesson4.html) provides an introduction to plotting with matplotlib and Bokeh.
+<b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson4.html">Lesson 4</a></b> provides an introduction to plotting with matplotlib and Bokeh.
 
 Lesson 5
 --------
-[Lesson 5](https://data-vis-with-python.readthedocs.io/en/main/lesson5.html) provides an introduction to plotting with matplotlib and Bokeh.
+<b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson5.html">Lesson 5</a></b> provides an introduction to plotting with matplotlib and Bokeh.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    overview.md
    lesson1.md

@@ -1,6 +1,6 @@
 # Lesson 1
 
-<h2>Interactive Visualization of Weather Time Series Data With Bokeh</h2>
+<h1>Interactive Visualization of Weather Time Series Data With Bokeh</h1>
 
 In this lesson, we will do some simple plotting just using matplotlib to get an idea of what plotting is typically like in Python. Then we will add some pan/zoom interactivity to the plots using Bokeh. 
 
