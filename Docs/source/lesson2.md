@@ -1,4 +1,4 @@
-# Lesson 2
+#Lesson 2
 
 ##Plot Tweet Timelines Using Bins and Interactive Bokeh Scatterplots
 

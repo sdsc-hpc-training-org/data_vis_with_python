@@ -9,16 +9,13 @@ Data Visualization With Python Using Jupyter Notebooks
 
 With examples for Bokeh, Seaborn, and Networkx
 
-Introduction
-
-
 .. toctree::
    :maxdepth: 2
 
    overview.md
    lesson1.md
    lesson2.md
-   methods/httpConnect.md
-   methods/tunneling.md
-   methods/reverseProxy.md
+   lesson3.md
+   lesson4.md
+   lesson5.md
    aboutus.md

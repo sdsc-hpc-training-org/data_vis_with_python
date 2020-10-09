@@ -1,4 +1,4 @@
-# Lesson 1
+#Lesson 1
 
 ##Interactive Visualization of Weather Time Series Data With Bokeh
 
