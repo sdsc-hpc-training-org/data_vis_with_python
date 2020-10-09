@@ -20,7 +20,7 @@ The Jupyter Notebooks for these lessons can be downloaded here:
 
 You can download the data for these lessons here:
 
-<a href="http://education.sdsc.edu/201912_data_viz_python_4webinar/data_vis_with_python_lesson_data.zip" target="_new">http://education.sdsc.edu/201912_data_viz_python_4webinar/data_vis_with_python_lesson_data.zip</a>
+<a href="https://education.sdsc.edu/201912_data_viz_python_4webinar/data_vis_with_python_lesson_data.zip">http://education.sdsc.edu/201912_data_viz_python_4webinar/data_vis_with_python_lesson_data.zip</a>
 
 <h1>The Jupyter Project</h1>
 
@@ -30,16 +30,27 @@ You can download the data for these lessons here:
 
 <h1>The Python Visualization Landscape</h1>
 
-![The Python Visualization Landscape](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/python_vis_landscape.png?raw=true)
+There are many different applications to be found in the python visualization landscape. We will be covering only a small part of it in these lessons. 
+
+![The Python Visualization Landscape, Courtesy: Jake VanderPlas](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/python_vis_landscape.png?raw=true)
 
 <h1>Bokeh</h1>
 “Bokeh is an interactive visualization library for modern web browsers. It serves as a web-based front end to matplotlib using JavaScript behind the scenes to run in a browser”. 
 
 <a href="https://docs.bokeh.org/en/latest/index.html" target="_new">https://docs.bokeh.org/en/latest/index.html</a>
 
-<h1>HoloViz/HoloViews</h1>
-![HoloViews Apps](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/holoviews.png?raw=true)
+<h1>Seaborn</h1>
 
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Learn more at <a href="https://seaborn.pydata.org/">https://seaborn.pydata.org/</a>.
+
+<h1>Networkx</h1>
+
+NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. Learn more at <a href="https://networkx.github.io/">https://networkx.github.io/</a>.
+
+<h1>HoloViz/HoloViews</h1>
+
+HoloViz is a set of high-level tools to simplify visualization in Python, one of which is Bokeh. We will not be covering HoloViz in this tutorial but it is something to anticipate for future more advanced tutorials. Learn more at <a href="http://holoviz.org/">http://holoviz.org/</a>.
+	
 ![HoloViz Pipeline](https://github.com/sdsc-hpc-training-org/data_vis_with_python/blob/main/Docs/images/holoviz.png?raw=true)
 
 
