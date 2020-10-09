@@ -7,15 +7,28 @@
 Data Visualization With Python Using Jupyter Notebooks 
 ========================================
 
-# With examples for Bokeh, Seaborn, and Networkx
+.. toctree::
+   :maxdepth: 2
+
+   overview.md
+   lesson1.md
+   lesson2.md
+   lesson3.md
+   lesson4.md
+   lesson5.md
+   aboutus.md
 
 Tutorial Overview
---------
-<b>The <a href="https://data-vis-with-python.readthedocs.io/en/main/overview.html">Tutorial Overview</a></b> provides some background to this tutorial and links to related resources. 
+-----------------
+The Tutorial Overview provides some background to this tutorial and links to related resources. 
+
+https://data-vis-with-python.readthedocs.io/en/main/overview.html
 
 Lesson 1
 --------
-<b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson1.html">Lesson 1</a></b> provides an introduction to plotting with matplotlib and Bokeh using a weather data set containing data for temperature, humidity, wind speed and wind direction. 
+Lesson 1 provides an introduction to plotting with matplotlib and Bokeh using a weather data set containing data for temperature, humidity, wind speed and wind direction. 
+
+https://data-vis-with-python.readthedocs.io/en/main/lesson1.html
 
 Lesson 2
 --------
@@ -33,13 +46,3 @@ Lesson 5
 --------
 <b><a href="https://data-vis-with-python.readthedocs.io/en/main/lesson5.html">Lesson 5</a></b> provides an introduction to plotting with matplotlib and Bokeh.
 
-.. toctree::
-   :maxdepth: 2
-
-   overview.md
-   lesson1.md
-   lesson2.md
-   lesson3.md
-   lesson4.md
-   lesson5.md
-   aboutus.md
